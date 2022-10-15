@@ -1,0 +1,12 @@
+20221010	08:32:12	dd3a9648-ec7c-4afa-a95f-7c56cac85147	Error:Not allowed by CORS
+20221010	08:32:12	fc4216d9-a7eb-43b1-8b3d-2f46dff09c51	Error:Not allowed by CORS
+20221010	08:32:36	4c4d0f18-20ce-4542-bdd6-c5bfcd10e4ce	Error:Not allowed by CORS
+20221010	08:32:36	5239ff5e-47a6-476b-beb4-1836ad0e898c	Error:Not allowed by CORS
+20221010	08:36:51	bc37b218-be8f-4933-8c53-5b0928bd9568	Error:ENOENT: no such file or directory, stat 'D:\NodeJS\views\404.html'
+20221010	18:47:39	0b73896a-d04b-4968-8752-cb9d0c94ddb7	TypeError:Cannot read property 'split' of undefined
+20221010	18:49:57	8e313270-fb8b-4c51-85b9-75778eaa62d0	TypeError:Cannot read property 'split' of undefined
+20221011	18:58:13	6c352837-0980-421c-bf37-21bbbe23da56	TypeError:Cannot read property 'split' of undefined
+20221011	18:58:28	e530e3ba-3870-4b83-8544-ae440e792b95	TypeError:Cannot read property 'split' of undefined
+20221011	18:58:28	4709f763-3f62-466d-b74a-18d814c54a71	TypeError:Cannot read property 'split' of undefined
+20221011	18:58:43	d25e857b-5672-4b9c-90aa-daad52783cae	TypeError:Cannot read property 'split' of undefined
+20221015	08:32:57	e989fe25-eec9-4352-9b1e-8dffdfc19059	ReferenceError:data is not defined
